@@ -1,4 +1,4 @@
-# Prefix-Remover
+# Prefix Remover
 A simple c++ writed program that modifies filenames to delete a prefix that user inputs.
 
 I have made this program because i save all my mobile files on a local server in my house, so i want the files are ordered automatically from older to newer (that is what happens by default at least on android devices because the files are named as date.jpg) and for example, WhatsApp photos that i want to save have te prefix IMG_ before the date of the photo, so i remove it with this little program.
